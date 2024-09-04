@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tueschuta.github.io/sitemap.html.gz
+Sitemap: https://tueschuta.github.io/app/sitemap.html.gz
+Sitemap: https://tueschuta.github.io/assets/sitemap.html.gz
+Sitemap: https://tueschuta.github.io/css/sitemap.html.gz
+Sitemap: https://tueschuta.github.io/includes/sitemap.html.gz
+Sitemap: https://tueschuta.github.io/item/sitemap.html.gz
+Sitemap: https://tueschuta.github.io/src/sitemap.html.gz
